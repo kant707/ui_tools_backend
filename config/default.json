@@ -1,0 +1,6 @@
+{
+  "_mongoURI": "mongodb://uitool_base:W8DMUcFAjHBd@preprod-catalog-mongo3.nyk00-int.network:27017,preprod-catalog-mongo2.nyk00-int.network:27017,preprod-catalog-mongo1.nyk00-int.network:27017/emailerEngine?authSource=admin?replicaSet=mongo-cluster?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://admin:admin@emailercentralization.w5bve.mongodb.net/emailers?retryWrites=true&w=majority",
+  "jwtSecret": "SgVkXp2s5v8y/B?E(H+MbQeThWmZq3t6",
+  "emailConnectSecret": "I-8Q10P3tEe7tvdiPsD8fw"
+}
